@@ -1,7 +1,9 @@
-Livro de Receitas
+# Livro de Receitas :man_cook:
 
-Bem vindo ao livro de Receitas
+### Olá! Bem vindo ao meu livro de Receitas :wave:
 
 -Strogonoff de Frango
 
 -Pavê
+
+-Bolo de Cenoura
